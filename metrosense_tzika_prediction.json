@@ -1,0 +1,13 @@
+{
+    "total_test_samples": 3,
+    "predictions": [
+        1,
+        1,
+        1
+    ],
+    "ground_truth": [
+        1,
+        1,
+        1
+    ]
+}

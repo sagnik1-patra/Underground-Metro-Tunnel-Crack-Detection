@@ -1,0 +1,8 @@
+dataset: Tzika PDF Image Extract
+input_shape:
+- 128
+- 128
+- 3
+loss: binary_crossentropy
+model: Simple CNN
+optimizer: adam
