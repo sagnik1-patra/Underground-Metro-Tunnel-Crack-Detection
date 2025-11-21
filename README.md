@@ -20,7 +20,7 @@ The system performs:
 🎯 Why Hybrid AIS + GWO?
 AIS (Artificial Immune System)
 
-Clones best HPs
+Clones best HPs,
 
 Mutates them to explore better solutions
 
