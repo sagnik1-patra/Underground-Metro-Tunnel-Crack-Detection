@@ -11,7 +11,7 @@ It extracts frames from the Tzika et al. metro tunnel inspection PDF, preprocess
 
 The system performs:
 
-✔ Crack vs Non-Crack Classification
+✔ Crack vs Non-Crack Classification.
 ✔ Automated Hyperparameter Optimization (AIS + GWO)
 ✔ Model Training, Validation, Testing
 ✔ Multiple Graphs (Accuracy, Loss, Prediction, Comparison, Confusion Matrix)
